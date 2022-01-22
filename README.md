@@ -18,4 +18,4 @@ This repo is the work I have done during my time as an intern for LetsGrowMore(L
     - Develop A Neural Network That Can Read Handwriting
     - Next Word Prediction
     - Handwritten equation solver using CNN
-    - ML Facial recognition to detect mood and suggest songs accordingly
+    - ML Facial recognition to detect mood and suggest songs
